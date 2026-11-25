@@ -1,1 +1,1 @@
-# Project-planning-and-resource-management
+[View Project Documentation (PDF)](Projektni%20zadatak.pdf)
